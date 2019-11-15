@@ -1,0 +1,2 @@
+# Stockserver
+StockMangement store
